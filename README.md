@@ -1,4 +1,4 @@
-# dumbledoresasitha
+#dumbledoresasitha-hub
 <h1 align="center">Hi 👋, I'm Sasitha Dineth Jayakody</h1>
 <h3 align="center">A passionate frontend developer from sRI lANKA</h3>
 
